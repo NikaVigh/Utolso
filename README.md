@@ -1,0 +1,2 @@
+# Utolso
+Python tréning
